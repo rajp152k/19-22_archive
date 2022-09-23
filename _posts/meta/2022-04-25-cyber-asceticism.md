@@ -1,0 +1,94 @@
+---
+title: 'Cyber-Asceticism'
+category: Meta
+---
+
+### [2022-04-25 Mon 11:58] - 8029
+
+In a lot of my videos, I talk about:
+ - getting my hands dirty in the physical world and not escaping away into the Himalayas to meditate.
+ - being able to manage my senses right in the middle of the chaotic
+   world around and being aware of it, while you're traversing through it.
+ - <some other crude metaphor you'd like: three of a thing look good>
+   
+It's been a year since I deleted my original social media accounts
+and began blogging, only recently adding YouTube and twitter to better
+index the content.  
+
+Today morning, I realized that I have been keeping my distance
+from the cyber-world when it comes to social media. The initial
+reasons I collated for this stance were:
+ - it's a waste of time
+ - there's a lot of fake content
+
+These still hold true.  
+Anyway, I am acting as a cyber-ascetic right
+now and that is hypocrisy. I have expressed that I consider the
+physical counterpart of this to be escapism and that is not a fair
+treatment of that line of thought.  
+
+I would perhaps tag that as an indefinite exile - to cultivate your
+own style of awareness. Note that I say indefinite, not infinite. It
+definitely can't be a predetermined finite exile because that
+inherently implies that you plan on returning. You plan on getting
+your hands dirty again even before you've washed them, observing
+their morphology when they're clean, with an unbiased perspective,
+separating form from potential function.  
+
+I now have this new-found respect for ascetics and finally don't
+harshly judge their actions. They don't need to be intellectually liable to
+reason their actions with me, or anyone for that matter. I can attest
+to the same due to the experience I have from my indefinite
+cyber-exile.  
+
+Contextualizing the decision I took a year ago, this is the entry
+picked up from the Macro (my homepage).[^1]
+
+### Sun Apr 18 19:40:04 IST 2021
+
+    - have quit social media(deleted accounts : facebook and instagram)
+        - had already been off the platforms for a couple of months so this isn't cold-turkey
+        - this did put a smile on my face : unexpected energy surge immediately after the deletion
+        - ofcourse, other more active forms of leisure are being incorporated
+    - also quit television and all other forms of visual entertainment (2 days in now)
+        - this is cold turkey
+        - plan to stick to this for a long time but hard rules are good to avoid loopholes and gray areas
+            - no visual entertainment for 30 days : that's pretty simple
+                - followed by one movie every weekend post that first phase of weaning off
+                - only if I feel like it
+    - life does seem a bit more boring, which is expected and good
+    - Sleeping patterns are healthier and lucidity levels are rising fairly rapidly
+        - more stable dreams and generally more aware of the REM phase without any surplus significant efforts.
+    - as expected, a lot of time has been freed up 
+        - the key, now, is to mindfully slot in productive activities
+		
+### The Plan
+
+As I previously mentioned, I still think that it is a waste of time
+and attention if you don't have a definite purpose when using social
+media. I have found my purpose of spreading esoteric ideas now and
+will therefore return on Instagram as `rp152k`.
+
+I will primarily be using this to engage with other similar content
+creators and be abstaining from posting anything that does not respect
+my philosophy of being frank. It's time to train my abstractual[^2]
+pokemon with those out there in the world and strengthen them further.
+
+Some other reasons for this move:
+ - Several juniors who really want to get in touch with me will be
+   able to do so conveniently
+ - I'd better be able to propagate my ideas
+ - I'm not afraid anymore to lose my style of expression : I've spent
+   enough time in the cyber-Himalayas to be aware of its philosophical core
+   
+Lastly, I know that this is equivalent to: 
+ - a clean fish trying to sanitize a majorly murky pond.
+ - trying to pacify a bull by grabbing it right at its horns
+ - <some other crude metaphor you'd like: three of a thing look good>
+ 
+I am definitely up for the challenge and am excited to see how this
+line of thought evolves.
+
+[^1]: note that I used to use vim then; therefore the timestamp is of the format that you get by typing in `date` on any conventional shell. To insert the text directly from a shell command into a vim buffer: use `:r!<the command>`
+
+[^2]: AAIN

@@ -1,0 +1,9 @@
+# main links
+main:
+   - title: "About me"
+     url: /about/
+   - title: "Résumé"
+     url: /resume/
+   - title: "Blog"
+     url: /archive/
+
